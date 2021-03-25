@@ -1,13 +1,13 @@
-package com.example.crudspring.angula.api;
+package br.com.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CrudSpringAngulaApiApplication {
+public class CrudApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(CrudSpringAngulaApiApplication.class, args);
+        SpringApplication.run(CrudApplication.class, args);
     }
 
     /* public WebMvcConfigurer corsConfigurer() {

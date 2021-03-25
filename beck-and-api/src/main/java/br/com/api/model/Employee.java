@@ -1,4 +1,4 @@
-package com.example.crudspring.angula.api.model;
+package br.com.api.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

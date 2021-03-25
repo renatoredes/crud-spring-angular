@@ -1,4 +1,4 @@
-package com.example.crudspring.angula.api.exception;
+package br.com.api.exception;
 
 public class ResourceNotFoundException extends Exception {
 

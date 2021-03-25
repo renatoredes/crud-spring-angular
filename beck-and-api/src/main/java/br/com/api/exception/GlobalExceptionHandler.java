@@ -1,4 +1,4 @@
-package com.example.crudspring.angula.api.exception;
+package br.com.api.exception;
 
 import java.util.Date;
 
