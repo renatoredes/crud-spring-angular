@@ -13,10 +13,11 @@
 
 * Listar
 * Cadastrar 
-* Atualizar
 * Excluir
 
 ## Acesse as páginas usando os URLs:
 
 * http://localhost:4200/employees
 * http://localhost:4200/add
+
+![cat](https://github.com/renatoredes/crud-spring-angular/blob/main/img/adicionar.PNG)
