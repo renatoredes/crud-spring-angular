@@ -6,6 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Services Professional ';
  // title = 'Crud: Angular 6 + Spring Boot, Spring Data JPA, Mysql';
 }
